@@ -2,7 +2,7 @@
 
 
 
-\## 📌 Description
+\##  Description
 
 
 
@@ -14,7 +14,7 @@ The objective is to apply different machine learning techniques to an insurance 
 
 
 
-\## 📊 Dataset
+\## Dataset
 
 
 
@@ -22,7 +22,7 @@ The project uses an insurance dataset containing information used for prediction
 
 
 
-\## 🤖 Machine Learning Models
+\##  Machine Learning Models
 
 
 
@@ -44,7 +44,7 @@ Several machine learning algorithms were implemented and evaluated:
 
 
 
-\## 🛠️ Technologies
+\##  Technologies
 
 
 
@@ -62,7 +62,7 @@ Several machine learning algorithms were implemented and evaluated:
 
 
 
-\## 📁 Project Structure
+\##  Project Structure
 
 
 
